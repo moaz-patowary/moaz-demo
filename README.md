@@ -1,4 +1,4 @@
 # moaz-demo
-fist git repository
+first git repository
 <br>
 Author-Moaz Ahmed
